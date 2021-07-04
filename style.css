@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    font-size: 25px;
+    
     margin: 0;
    
 }
@@ -9,7 +9,7 @@ body {
     color: orange;
 }
 
-section {
+.flexible-container {
    display: flex;
 }
 .half-width{
@@ -29,18 +29,17 @@ section {
     font-weight: bold;
     font-size: 15px;
 }
-.half-width p{
-    font-size: medium;
-   
-} 
+
    
 .top-banner{
     background-image: url(images/top-banner.png);
+    
     background-repeat: no-repeat;
 }
 .dream-big{
     background-image: url('images/dream-bg.png');
     background-repeat: no-repeat;
     background-position: right;
-    background-position-y:280px;
+    background-position-y:230px;
+   
 }
