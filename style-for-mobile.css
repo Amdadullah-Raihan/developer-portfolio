@@ -70,6 +70,9 @@
         box-shadow: 10px 10px 40px gray;
         padding: 40px;
     }
+    .center-image{
+        text-align:center;
+    }
     footer p{
         text-align: center;
     }
