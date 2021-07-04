@@ -59,7 +59,13 @@
         margin-bottom:40px;
         box-shadow: 10px 10px 40px gray;
         padding: 40px;
+       
         
+    }
+    .experience-area{
+        background-image:url(images/exp-bg.png);
+        background-repeat:no-repeat;
+        background-position-y:15%;
     }
     #item-2-border{
         border-left: 7px solid;
@@ -73,6 +79,7 @@
     .center-image{
         text-align:center;
     }
+   
     footer p{
         text-align: center;
     }
