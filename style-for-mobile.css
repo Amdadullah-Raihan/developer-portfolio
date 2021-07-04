@@ -6,7 +6,7 @@
        
     }
     h1{
-        font-size: 40px;
+        font-size: 30px;
         text-align:center;
     }
     h2,h3{
@@ -22,7 +22,8 @@
         color: orange;
     }
     .half-width img{
-        height: 500px;
+        width: 90%;
+        
      }
      .link-button{
         text-decoration: none;
@@ -62,11 +63,8 @@
        
         
     }
-    .experience-area{
-        background-image:url(images/exp-bg.png);
-        background-repeat:no-repeat;
-        background-position-y:15%;
-    }
+    
+    
     #item-2-border{
         border-left: 7px solid;
         border-image: linear-gradient(blue,cyan );
